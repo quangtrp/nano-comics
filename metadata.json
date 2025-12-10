@@ -1,0 +1,5 @@
+{
+  "name": "Copy of BananaComics AI",
+  "description": "An automated comic strip generator utilizing Nano Banana (Gemini 2.5 Flash Image) for visuals and Gemini 2.5 Flash for storytelling.",
+  "requestFramePermissions": []
+}
